@@ -1,0 +1,529 @@
+[HS] Nguyen Minh Quan
+| Lop: CNTT02
+| Gioi tinh: Nam
+| Ngay sinh: 12/03/2004
+| SDT: 0912345678
+
+| Diem mon:
+    Lap trinh C/C++: 9.50
+    Python: 8.70
+    Mang may tinh: 8.00
+
+| Diem TB tat ca mon: 8.73
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Tran Gia Han
+| Lop: CNTT02
+| Gioi tinh: Nu
+| Ngay sinh: 25/07/2004
+| SDT: 0987654321
+
+| Diem mon:
+    Lap trinh C/C++: 8.80
+    Python: 9.10
+    Mang may tinh: 8.50
+
+| Diem TB tat ca mon: 8.80
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Le Hoang Nam
+| Lop: CNTT02
+| Gioi tinh: Nam
+| Ngay sinh: 08/11/2004
+| SDT: 0901122334
+
+| Diem mon:
+    Lap trinh C/C++: 7.90
+    Python: 7.50
+    Mang may tinh: 8.30
+
+| Diem TB tat ca mon: 7.90
+| Hoc luc: Kha
+| TeacherID: 1
+
+====================================================
+
+[HS] Nguyen Thi Mai Anh
+| Lop: QTKD01
+| Gioi tinh: Nu
+| Ngay sinh: 14/02/2004
+| SDT: 0911223344
+
+| Diem mon:
+    Marketing: 8.50
+    Ke toan: 7.90
+    Quan tri doanh nghiep van tai: 8.20
+
+| Diem TB tat ca mon: 8.20
+| Hoc luc: Gioi
+| TeacherID: 26
+
+====================================================
+
+[HS] Vo Thanh Dat
+| Lop: QTKD01
+| Gioi tinh: Nam
+| Ngay sinh: 30/06/2004
+| SDT: 0922334455
+
+| Diem mon:
+    Marketing: 7.50
+    Ke toan: 8.00
+    Quan tri doanh nghiep van tai: 7.80
+
+| Diem TB tat ca mon: 7.77
+| Hoc luc: Kha
+| TeacherID: 26
+
+====================================================
+
+[HS] Pham Gia Bao
+| Lop: QTKD01
+| Gioi tinh: Nam
+| Ngay sinh: 17/09/2004
+| SDT: 0933445566
+
+| Diem mon:
+    Marketing: 9.00
+    Ke toan: 8.80
+    Quan tri doanh nghiep van tai: 8.90
+
+| Diem TB tat ca mon: 8.90
+| Hoc luc: Gioi
+| TeacherID: 26
+
+====================================================
+
+[HS] Le Minh Tri
+| Lop: QTKD01
+| Gioi tinh: Nam
+| Ngay sinh: 01/12/2004
+| SDT: 0944556677
+
+| Diem mon:
+    Marketing: 7.20
+    Ke toan: 7.80
+    Quan tri doanh nghiep van tai: 7.50
+
+| Diem TB tat ca mon: 7.50
+| Hoc luc: Kha
+| TeacherID: 26
+
+====================================================
+
+[HS] Hoang Quoc Viet
+| Lop: CKOTO01
+| Gioi tinh: Nam
+| Ngay sinh: 19/04/2004
+| SDT: 0955667788
+
+| Diem mon:
+    Ve ky thuat: 8.00
+    Nguyen ly may: 8.30
+    Cong nghe sua chua o to: 8.10
+
+| Diem TB tat ca mon: 8.13
+| Hoc luc: Gioi
+| TeacherID: 14
+
+====================================================
+
+[HS] Bui Thanh Tung
+| Lop: CKOTO01
+| Gioi tinh: Nam
+| Ngay sinh: 11/08/2004
+| SDT: 0966778899
+
+| Diem mon:
+    Ve ky thuat: 7.50
+    Nguyen ly may: 7.80
+    Cong nghe sua chua o to: 7.60
+
+| Diem TB tat ca mon: 7.63
+| Hoc luc: Kha
+| TeacherID: 14
+
+====================================================
+
+[HS] Nguyen Duc Manh
+| Lop: CKOTO01
+| Gioi tinh: Nam
+| Ngay sinh: 05/10/2004
+| SDT: 0977889900
+
+| Diem mon:
+    Ve ky thuat: 8.70
+    Nguyen ly may: 8.40
+    Cong nghe sua chua o to: 8.50
+
+| Diem TB tat ca mon: 8.53
+| Hoc luc: Gioi
+| TeacherID: 14
+
+====================================================
+
+[HS] Tran Minh Khoa
+| Lop: AI01
+| Gioi tinh: Nam
+| Ngay sinh: 15/03/2004
+| SDT: 0912233445
+
+| Diem mon:
+    Lap trinh C/C++: 9.40
+    Python: 9.10
+    Tri tue nhan tao: 9.60
+
+| Diem TB tat ca mon: 9.37
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Nguyen Bao Chau
+| Lop: AI01
+| Gioi tinh: Nu
+| Ngay sinh: 21/07/2004
+| SDT: 0923344556
+
+| Diem mon:
+    Lap trinh C/C++: 8.70
+    Python: 9.00
+    Tri tue nhan tao: 8.80
+
+| Diem TB tat ca mon: 8.83
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Le Quoc Huy
+| Lop: AI01
+| Gioi tinh: Nam
+| Ngay sinh: 09/11/2004
+| SDT: 0934455667
+
+| Diem mon:
+    Lap trinh C/C++: 7.80
+    Python: 8.00
+    Tri tue nhan tao: 8.20
+
+| Diem TB tat ca mon: 8.00
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Pham Thanh Ha
+| Lop: DTVT01
+| Gioi tinh: Nu
+| Ngay sinh: 18/01/2004
+| SDT: 0945566778
+
+| Diem mon:
+    Dien tu so: 8.90
+    Vi xu ly: 8.40
+    Mang vien thong: 8.70
+
+| Diem TB tat ca mon: 8.67
+| Hoc luc: Gioi
+| TeacherID: 8
+
+====================================================
+
+[HS] Vo Gia Bao
+| Lop: DTVT01
+| Gioi tinh: Nam
+| Ngay sinh: 27/05/2004
+| SDT: 0956677889
+
+| Diem mon:
+    Dien tu so: 7.90
+    Vi xu ly: 8.10
+    Mang vien thong: 7.80
+
+| Diem TB tat ca mon: 7.93
+| Hoc luc: Kha
+| TeacherID: 8
+
+====================================================
+
+[HS] Dang Thu Trang
+| Lop: LOG01
+| Gioi tinh: Nu
+| Ngay sinh: 03/09/2004
+| SDT: 0967788990
+
+| Diem mon:
+    Logistics: 8.50
+    Quan tri chuoi cung ung: 8.80
+    Xuat nhap khau: 8.30
+
+| Diem TB tat ca mon: 8.53
+| Hoc luc: Gioi
+| TeacherID: 22
+
+====================================================
+
+[HS] Bui Tuan Anh
+| Lop: LOG01
+| Gioi tinh: Nam
+| Ngay sinh: 12/12/2004
+| SDT: 0978899001
+
+| Diem mon:
+    Logistics: 7.50
+    Quan tri chuoi cung ung: 7.90
+    Xuat nhap khau: 8.00
+
+| Diem TB tat ca mon: 7.80
+| Hoc luc: Kha
+| TeacherID: 22
+
+====================================================
+
+[HS] Hoang Gia Linh
+| Lop: CKOTO01
+| Gioi tinh: Nu
+| Ngay sinh: 07/04/2004
+| SDT: 0989900112
+
+| Diem mon:
+    Ve ky thuat: 8.80
+    Nguyen ly may: 8.60
+    Cong nghe sua chua o to: 8.90
+
+| Diem TB tat ca mon: 8.77
+| Hoc luc: Gioi
+| TeacherID: 14
+
+====================================================
+
+[HS] Tran Duc Phat
+| Lop: XDCTGT01
+| Gioi tinh: Nam
+| Ngay sinh: 22/08/2004
+| SDT: 0991011223
+
+| Diem mon:
+    Thiet ke cau: 8.10
+    Thiet ke duong o to: 7.90
+    Thi cong cong trinh giao thong: 8.40
+
+| Diem TB tat ca mon: 8.13
+| Hoc luc: Gioi
+| TeacherID: 16
+
+====================================================
+
+[HS] Nguyen Thi Yen Nhi
+| Lop: QTKD01
+| Gioi tinh: Nu
+| Ngay sinh: 14/10/2004
+| SDT: 0902122334
+
+| Diem mon:
+    Marketing: 9.10
+    Ke toan: 8.70
+    Quan tri doanh nghiep van tai: 8.90
+
+| Diem TB tat ca mon: 8.90
+| Hoc luc: Gioi
+| TeacherID: 26
+
+====================================================
+
+[HS] Pham Quoc Bao
+| Lop: AI01
+| Gioi tinh: Nam
+| Ngay sinh: 11/02/2004
+| SDT: 0913456789
+
+| Diem mon:
+    Lap trinh C/C++: 9.20
+    Python: 8.80
+    Tri tue nhan tao: 9.10
+
+| Diem TB tat ca mon: 9.03
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Nguyen Thanh Nhan
+| Lop: AI01
+| Gioi tinh: Nam
+| Ngay sinh: 24/06/2004
+| SDT: 0924567890
+
+| Diem mon:
+    Lap trinh C/C++: 8.40
+    Python: 8.60
+    Tri tue nhan tao: 8.90
+
+| Diem TB tat ca mon: 8.63
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Tran Ngoc Mai
+| Lop: AI02
+| Gioi tinh: Nu
+| Ngay sinh: 05/09/2004
+| SDT: 0935678901
+
+| Diem mon:
+    Lap trinh C/C++: 9.50
+    Python: 9.20
+    Tri tue nhan tao: 9.40
+
+| Diem TB tat ca mon: 9.37
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Le Minh Dat
+| Lop: AI02
+| Gioi tinh: Nam
+| Ngay sinh: 18/12/2004
+| SDT: 0946789012
+
+| Diem mon:
+    Lap trinh C/C++: 7.80
+    Python: 8.00
+    Tri tue nhan tao: 8.20
+
+| Diem TB tat ca mon: 8.00
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Vo Thanh Huy
+| Lop: CNTT02
+| Gioi tinh: Nam
+| Ngay sinh: 09/03/2004
+| SDT: 0957890123
+
+| Diem mon:
+    Lap trinh C/C++: 8.70
+    Python: 8.30
+    Mang may tinh: 8.50
+
+| Diem TB tat ca mon: 8.50
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Dang Gia Linh
+| Lop: CNTT02
+| Gioi tinh: Nu
+| Ngay sinh: 27/07/2004
+| SDT: 0968901234
+
+| Diem mon:
+    Lap trinh C/C++: 9.00
+    Python: 8.90
+    Mang may tinh: 8.80
+
+| Diem TB tat ca mon: 8.90
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Bui Quang Hieu
+| Lop: AI01
+| Gioi tinh: Nam
+| Ngay sinh: 14/11/2004
+| SDT: 0979012345
+
+| Diem mon:
+    Lap trinh C/C++: 7.90
+    Python: 8.10
+    Tri tue nhan tao: 8.00
+
+| Diem TB tat ca mon: 8.00
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Nguyen Hoang Yen
+| Lop: AI02
+| Gioi tinh: Nu
+| Ngay sinh: 30/01/2004
+| SDT: 0980123456
+
+| Diem mon:
+    Lap trinh C/C++: 8.80
+    Python: 9.00
+    Tri tue nhan tao: 9.10
+
+| Diem TB tat ca mon: 8.97
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Tran Bao Khang
+| Lop: CNTT02
+| Gioi tinh: Nam
+| Ngay sinh: 16/05/2004
+| SDT: 0991234567
+
+| Diem mon:
+    Lap trinh C/C++: 8.10
+    Python: 7.90
+    Mang may tinh: 8.30
+
+| Diem TB tat ca mon: 8.10
+| Hoc luc: Gioi
+| TeacherID: 1
+
+====================================================
+
+[HS] Le Ai Ngoc
+| Lop: KTDTVT02
+| Gioi tinh: Nu
+| Ngay sinh: 31/10/2006
+| SDT: 
+
+| Diem TB tat ca mon: 0.00
+| Hoc luc: Yeu
+| TeacherID: 5
+
+====================================================
+
+[HS] Ngo Vo Anh Tai
+| Lop: KTDTVT02
+| Gioi tinh: Nam
+| Ngay sinh: 10/03/2006
+| SDT: 
+
+| Diem TB tat ca mon: 0.00
+| Hoc luc: Yeu
+| TeacherID: 5
+
+====================================================
+
+[HS] My Dieu
+| Lop: KTDTVT02
+| Gioi tinh: Khac
+| Ngay sinh: 2/10/2006
+| SDT: 
+
+| Diem TB tat ca mon: 0.00
+| Hoc luc: Yeu
+| TeacherID: 5
+
+====================================================
+

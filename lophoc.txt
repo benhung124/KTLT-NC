@@ -1,0 +1,9 @@
+1| ID lop: 2 | Ten lop: CNTT02 |0|0|0
+2| ID lop: 3 | Ten lop: QTKD01 |0|0|0
+3| ID lop: 4 | Ten lop: CKOTO01 |0|0|0
+4| ID lop: 5 | Ten lop: DTVT01 |0|0|0
+5| ID lop: 6 | Ten lop: XDCTGT01 |0|0|0
+6| ID lop: 7 | Ten lop: LOG01 |0|0|0
+7| ID lop: 8 | Ten lop: AI01 |0|0|0
+8| ID lop: 9 | Ten lop: DSTDC01 |0|0|0
+9| ID lop: 10 | Ten lop: KTDTVT02 |5|3|4,28,31

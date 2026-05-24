@@ -1,0 +1,31 @@
+1|LeThiBong|123456|Le Thi Bong|Lap trinh C/C++|BoMon|
+2|NguyenVanCuong|123456|Nguyen Van Cuong|Python|BoMon|
+3|PhamThiDung|123456|Pham Thi Dung|Java|BoMon|
+4|HoangVanEm|123456|Hoang Van Em|Co so du lieu|BoMon|
+5|TranVanTuyen|123456|Tran Van Tuyen|Mang may tinh|BoMon,CoVan|KTDTVT02
+6|PhamNgocHan|123456|Pham Ngoc Han|Tri tue nhan tao|BoMon|
+7|TranGiaBao|123456|Tran Gia Bao|An toan thong tin|BoMon|
+8|VoThanhNha|123456|Vo Thanh Nha|Dien tu so|BoMon|
+9|NguyenThiMai|123456|Nguyen Thi Mai|Vi xu ly|BoMon|
+10|DoanQuocKhanh|123456|Doan Quoc Khanh|Tin hieu va he thong|BoMon|
+11|BuiThanhVy|123456|Bui Thanh Vy|Mang vien thong|BoMon|
+12|HoangMinhDat|123456|Hoang Minh Dat|Truyen thong khong day|BoMon|
+13|LeQuocBao|123456|Le Quoc Bao|IoT|BoMon|
+14|PhamThuTrang|123456|Pham Thu Trang|Ve ky thuat|BoMon|
+15|TranThiMyNhung|123456|Tran Thi My Nhung|Nguyen ly may|BoMon|
+16|TranThiMyAnh|123456|Tran Thi My Anh|Thiet ke cau|BoMon|
+17|HuuGiang|123456|Huu Giang|Thiet ke duong o to|BoMon|
+18|LeThanhPhong|123456|Le Thanh Phong|Thi cong cong trinh giao thong|BoMon|
+19|NguyenQuocHuy|123456|Nguyen Quoc Huy|Metro va duong sat toc do cao|BoMon|
+20|PhamThanhTam|123456|Pham Thanh Tam|Tin hieu dieu khien tau|BoMon|
+21|VoGiaBao|123456|Vo Gia Bao|Khai thac van tai duong sat|BoMon|
+22|DangThiHoa|123456|Dang Thi Hoa|Logistics|BoMon|
+23|LeMinhQuan|123456|Le Minh Quan|Quan tri chuoi cung ung|BoMon|
+24|TranNgocAn|123456|Tran Ngoc An|Xuat nhap khau|BoMon|
+25|PhamAnhKhoa|123456|Pham Anh Khoa|Kinh te vi mo|BoMon|
+26|NguyenThuHa|123456|Nguyen Thu Ha|Marketing|BoMon|
+27|VoThanhDat|123456|Vo Thanh Dat|Quan tri doanh nghiep van tai|BoMon|
+28|BuiCongMinh|123456|Bui Cong Minh|Mach dien|BoMon|
+29|LeQuynhNhu|123456|Le Quynh Nhu|May dien|BoMon|
+30|TranHoangNam|123456|Tran Hoang Nam|PLC|BoMon|
+31|NguyenHuuDu|123456|NguyenHuuDu|Dien cong nghiep|BoMon|

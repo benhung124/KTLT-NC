@@ -1,0 +1,10 @@
+1|Lap trinh C/C++|it|60|1|2|0|23/05/2006 23:59|24/05/2006 22:00|0|1|1|1|ALL
+1| Trong hệ thống điện công nghiệp, thiết bị nào dùng để bảo vệ mạch điện khi xảy ra quá tải hoặc ngắn mạch?| Công tắc tơ|Cầu chì|Biến áp|Đồng hồ đo điện|2
+2|chon b|a|b|c|d|2
+2|Lap trinh C/C++|it|60|1|2|0|23/05/2026 09:00|23/05/2026 23:00|1|1|0|0|ALL
+1|chon a|a|b|c|d|1
+2|chon b|a|b|c|d|2
+3|Dien cong nghiep|1|20|1|3|0|24/05/2006 05:27|25/05/2006 05:27|0|1|1|1|KTDTVT02
+1|Trong hệ thống điện công nghiệp, thiết bị nào dùng để bảo vệ mạch điện khi xảy ra quá tải hoặc ngắn mạch?|Công tắc tơ|Cầu chì|Biến áp|Đồng hồ đo điện|2
+2|Đơn vị đo cường độ dòng điện là gì?|Vôn (V)|Oát (W)|Ampe (A)|Ôm (Ω)|3
+3|Trong mạch điện ba pha, động cơ không đồng bộ ba pha thường được sử dụng vì lý do nào?|Giá thành rất cao|Hoạt động ổn định và hiệu suất tốt|Chỉ dùng cho điện một chiều|Không cần nguồn điện|2

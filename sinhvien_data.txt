@@ -1,0 +1,32 @@
+1|1|user1|pass1|Nguyen Minh Quan|CNTT02|Nam|12/03/2004|0912345678|8.73|1|Lap trinh C/C++:9.50,Python:8.70,Mang may tinh:8.00
+2|2|user2|pass2|Tran Gia Han|CNTT02|Nu|25/07/2004|0987654321|8.8|1|Lap trinh C/C++:8.80,Python:9.10,Mang may tinh:8.50
+3|3|user3|pass3|Le Hoang Nam|CNTT02|Nam|08/11/2004|0901122334|7.9|1|Lap trinh C/C++:7.90,Python:7.50,Mang may tinh:8.30
+4|4|user4|pass4|Nguyen Thi Mai Anh|QTKD01|Nu|14/02/2004|0911223344|8.2|26|Marketing:8.50,Ke toan:7.90,Quan tri doanh nghiep van tai:8.20
+5|5|user5|pass5|Vo Thanh Dat|QTKD01|Nam|30/06/2004|0922334455|7.77|26|Marketing:7.50,Ke toan:8.00,Quan tri doanh nghiep van tai:7.80
+6|6|user6|pass6|Pham Gia Bao|QTKD01|Nam|17/09/2004|0933445566|8.9|26|Marketing:9.00,Ke toan:8.80,Quan tri doanh nghiep van tai:8.90
+7|7|user7|pass7|Le Minh Tri|QTKD01|Nam|01/12/2004|0944556677|7.5|26|Marketing:7.20,Ke toan:7.80,Quan tri doanh nghiep van tai:7.50
+8|8|user8|pass8|Hoang Quoc Viet|CKOTO01|Nam|19/04/2004|0955667788|8.13|14|Ve ky thuat:8.00,Nguyen ly may:8.30,Cong nghe sua chua o to:8.10
+9|9|user9|pass9|Bui Thanh Tung|CKOTO01|Nam|11/08/2004|0966778899|7.63|14|Ve ky thuat:7.50,Nguyen ly may:7.80,Cong nghe sua chua o to:7.60
+10|10|user10|pass10|Nguyen Duc Manh|CKOTO01|Nam|05/10/2004|0977889900|8.53|14|Ve ky thuat:8.70,Nguyen ly may:8.40,Cong nghe sua chua o to:8.50
+11|11|user11|pass11|Tran Minh Khoa|AI01|Nam|15/03/2004|0912233445|9.37|1|Lap trinh C/C++:9.40,Python:9.10,Tri tue nhan tao:9.60
+12|12|user12|pass12|Nguyen Bao Chau|AI01|Nu|21/07/2004|0923344556|8.83|1|Lap trinh C/C++:8.70,Python:9.00,Tri tue nhan tao:8.80
+13|13|user13|pass13|Le Quoc Huy|AI01|Nam|09/11/2004|0934455667|8|1|Lap trinh C/C++:7.80,Python:8.00,Tri tue nhan tao:8.20
+14|14|user14|pass14|Pham Thanh Ha|DTVT01|Nu|18/01/2004|0945566778|8.67|8|Dien tu so:8.90,Vi xu ly:8.40,Mang vien thong:8.70
+15|15|user15|pass15|Vo Gia Bao|DTVT01|Nam|27/05/2004|0956677889|7.93|8|Dien tu so:7.90,Vi xu ly:8.10,Mang vien thong:7.80
+16|16|user16|pass16|Dang Thu Trang|LOG01|Nu|03/09/2004|0967788990|8.53|22|Logistics:8.50,Quan tri chuoi cung ung:8.80,Xuat nhap khau:8.30
+17|17|user17|pass17|Bui Tuan Anh|LOG01|Nam|12/12/2004|0978899001|7.8|22|Logistics:7.50,Quan tri chuoi cung ung:7.90,Xuat nhap khau:8.00
+18|18|user18|pass18|Hoang Gia Linh|CKOTO01|Nu|07/04/2004|0989900112|8.77|14|Ve ky thuat:8.80,Nguyen ly may:8.60,Cong nghe sua chua o to:8.90
+19|19|user19|pass19|Tran Duc Phat|XDCTGT01|Nam|22/08/2004|0991011223|8.13|16|Thiet ke cau:8.10,Thiet ke duong o to:7.90,Thi cong cong trinh giao thong:8.40
+20|20|user20|pass20|Nguyen Thi Yen Nhi|QTKD01|Nu|14/10/2004|0902122334|8.9|26|Marketing:9.10,Ke toan:8.70,Quan tri doanh nghiep van tai:8.90
+21|21|user21|pass21|Pham Quoc Bao|AI01|Nam|11/02/2004|0913456789|9.03|1|Lap trinh C/C++:9.20,Python:8.80,Tri tue nhan tao:9.10
+22|22|user22|pass22|Nguyen Thanh Nhan|AI01|Nam|24/06/2004|0924567890|8.63|1|Lap trinh C/C++:8.40,Python:8.60,Tri tue nhan tao:8.90
+23|23|user23|pass23|Tran Ngoc Mai|AI02|Nu|05/09/2004|0935678901|9.37|1|Lap trinh C/C++:9.50,Python:9.20,Tri tue nhan tao:9.40
+24|24|user24|pass24|Le Minh Dat|AI02|Nam|18/12/2004|0946789012|8|1|Lap trinh C/C++:7.80,Python:8.00,Tri tue nhan tao:8.20
+25|25|user25|pass25|Vo Thanh Huy|CNTT02|Nam|09/03/2004|0957890123|8.5|1|Lap trinh C/C++:8.70,Python:8.30,Mang may tinh:8.50
+26|26|user26|pass26|Dang Gia Linh|CNTT02|Nu|27/07/2004|0968901234|8.9|1|Lap trinh C/C++:9.00,Python:8.90,Mang may tinh:8.80
+27|27|user27|pass27|Bui Quang Hieu|AI01|Nam|14/11/2004|0979012345|8|1|Lap trinh C/C++:7.90,Python:8.10,Tri tue nhan tao:8.00
+28|28|user28|pass28|Nguyen Hoang Yen|AI02|Nu|30/01/2004|0980123456|8.97|1|Lap trinh C/C++:8.80,Python:9.00,Tri tue nhan tao:9.10
+29|29|user29|pass29|Tran Bao Khang|CNTT02|Nam|16/05/2004|0991234567|8.1|1|Lap trinh C/C++:8.10,Python:7.90,Mang may tinh:8.30
+30|113|LeAiNgoc|000000|Le Ai Ngoc|KTDTVT02|Nu|31/10/2006||0|5|
+31|114|NgoVoAnhTai|000000|Ngo Vo Anh Tai|KTDTVT02|Nam|10/03/2006||0|5|
+32|115|MyDieu|000000|My Dieu|KTDTVT02|Khac|2/10/2006||0|5|
